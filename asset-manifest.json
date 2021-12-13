@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://harshmehta813.github.io/csb-f3eqq/static/css/main.bc1d6eaf.chunk.css",
+    "main.js": "https://harshmehta813.github.io/csb-f3eqq/static/js/main.99d320bc.chunk.js",
+    "main.js.map": "https://harshmehta813.github.io/csb-f3eqq/static/js/main.99d320bc.chunk.js.map",
+    "runtime-main.js": "https://harshmehta813.github.io/csb-f3eqq/static/js/runtime-main.e00c61a3.js",
+    "runtime-main.js.map": "https://harshmehta813.github.io/csb-f3eqq/static/js/runtime-main.e00c61a3.js.map",
+    "static/js/2.0f8f787a.chunk.js": "https://harshmehta813.github.io/csb-f3eqq/static/js/2.0f8f787a.chunk.js",
+    "static/js/2.0f8f787a.chunk.js.map": "https://harshmehta813.github.io/csb-f3eqq/static/js/2.0f8f787a.chunk.js.map",
+    "index.html": "https://harshmehta813.github.io/csb-f3eqq/index.html",
+    "static/css/main.bc1d6eaf.chunk.css.map": "https://harshmehta813.github.io/csb-f3eqq/static/css/main.bc1d6eaf.chunk.css.map",
+    "static/js/2.0f8f787a.chunk.js.LICENSE.txt": "https://harshmehta813.github.io/csb-f3eqq/static/js/2.0f8f787a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e00c61a3.js",
+    "static/js/2.0f8f787a.chunk.js",
+    "static/css/main.bc1d6eaf.chunk.css",
+    "static/js/main.99d320bc.chunk.js"
+  ]
+}
